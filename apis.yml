@@ -1,7 +1,12 @@
 aid: wesco-international
-url: https://raw.githubusercontent.com/api-evangelist/wesco-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/wesco-international/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.wesco-international.com
+description: >-
+  WESCO International is a leading provider of business-to-business distribution,
+  logistics services, and supply chain solutions for electrical, industrial, communications,
+  and utility customers.
