@@ -22,6 +22,10 @@ created: '2026-03-21'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/WESCO-International
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wesco
   - type: Website
     url: https://www.wesco.com/
   - type: DeveloperPortal
