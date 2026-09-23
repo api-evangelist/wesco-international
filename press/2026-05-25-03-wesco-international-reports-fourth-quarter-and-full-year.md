@@ -1,7 +1,9 @@
 ---
 title: Wesco International Reports Fourth Quarter and Full Year ...
 url: https://investors.wesco.com/news-releases/news-release-details/wesco-international-reports-fourth-quarter-and-full-year-2025
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WESCO International" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Wesco Named to Fortune's Inaugural AIQ50 List
 url: https://investors.wesco.com/news-releases/news-release-details/wesco-named-fortunes-inaugural-aiq50-list
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WESCO International" press release artificial intelligence'
 position: 1
 source: serpapi-google

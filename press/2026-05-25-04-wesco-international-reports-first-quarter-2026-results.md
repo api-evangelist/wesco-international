@@ -1,7 +1,9 @@
 ---
 title: Wesco International Reports First Quarter 2026 Results
 url: https://investors.wesco.com/news-releases/news-release-details/wesco-international-reports-first-quarter-2026-results
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WESCO International" press release artificial intelligence'
 position: 4
 source: serpapi-google
